@@ -4,7 +4,7 @@ function buttonOpen(buttonValue) {
     const links = [];
     ip=domain;
     links["IpInvestigation"] = "https://hakxcore.github.io/domain-investigation/ip.html";
-    links["DomainInvestigation"] = "https://hakxcore.github.io/domain-investigation";
+    links["DomainInvestigation"] = "https://hakxcore.github.io/domain-investigation/index.html";
     links["Centralops"] = "https://centralops.net/co/DomainDossier.aspx?addr=" + domain + "&dom_whois=true&dom_dns=true&net_whois=true";
     links["Dnslytics"] = "https://dnslytics.com/domain/"+domain;
     links["Domainbigdata"] = "https://domainbigdata.com/"+domain;
